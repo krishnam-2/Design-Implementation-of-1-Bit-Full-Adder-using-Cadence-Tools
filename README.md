@@ -47,8 +47,9 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
+![380368713-08a8f278-00e2-44d9-8420-a3fcf0586a7e](https://github.com/user-attachments/assets/b4b1da4c-e71a-4ce5-96bf-4fbb49f96ddb)
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+
 
 
  
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![380368730-dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9](https://github.com/user-attachments/assets/8565c313-c245-4b81-935d-783557d19841)
+
 
 
 
@@ -79,9 +81,10 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
+![386571138-b8926550-71d4-422e-9bc3-68f2414c80c1](https://github.com/user-attachments/assets/6ea118eb-886a-4b2e-9140-b7c4b147e70a)
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+
 
  
 Analog simulation by SPECTRE.
@@ -94,12 +97,13 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![380368783-3f603cf1-7394-4561-ae07-fbe55615e8be](https://github.com/user-attachments/assets/08a9d783-f3fc-4130-8eec-78a82ae91f40)
+
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![380368784-384f880f-a1e4-4afa-8302-d7667c2f535b](https://github.com/user-attachments/assets/0fb65cae-f610-4d7d-ab6c-3316bb7e9aa0)
 
 
  
